@@ -1,5 +1,6 @@
-Class Outpot{
+Class Output
+{
 Public Static Void main(){
-System.out.printpn("hello world");
+System.out.printpn("hey there this part is to give output");
 }
 }
