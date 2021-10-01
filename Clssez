@@ -1,0 +1,5 @@
+Class Outpot{
+Public Static Void main(){
+System.out.printpn("hello world");
+}
+}
